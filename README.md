@@ -38,30 +38,30 @@ La empresa desea analizar el comportamiento de usuarios bajo dos condiciones id�
 
 El análisis incluye 4 gráficos que resumen:
 
-1. Distribución de eventos por grupo
+1. Distribución de eventos por fecha
 
 <p align="center">
-    <img src="images/1.png"  alt="Distribución de eventos por grupo" widht = 70%>
+    <img src="images/1.png"  alt="Distribución de eventos por fecha" widht = 70%>
 </p>
 
 
-2. Porcentaje de conversión por evento
+2. Porcentaje de conversión por hora
 
 <p align="center">
-    <img src="images/2.png"  alt="Porcentaje de conversión por evento" widht = 70%>
+    <img src="images/2.png"  alt="Porcentaje de conversión por hora" widht = 70%>
 </p>
 
 
 3. Comparación visual entre los grupos de prueba
 
 <p align="center">
-    <img src="images/3.png"  alt="Comparación visual entre los grupos de prueba" widht = 70%>
+    <img src="images/4.png"  alt="Comparación visual entre los grupos de prueba" widht = 70%>
 </p>
 
 
 4. Relación entre frecuencia de eventos y conversión
 <p align="center">
-    <img src="images/4.png"  alt="Relación entre frecuencia de eventos y conversión" widht = 70%>
+    <img src="images/3.png"  alt="Relación entre frecuencia de eventos y conversión" widht = 70%>
 </p>
 
 
